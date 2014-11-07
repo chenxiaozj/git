@@ -33,7 +33,7 @@
 27. git tag v0.1 打标 （根据commit ID）
 28. git tag 查看tag
 29. git tag v0.3 1a7db230cbeacde746d8eb58cf882ac34c36636e 补充打标
-30. git tag -d v0.1
+30. git tag -d v0.1 删除tag
 31. git config --global  alias.st status设置别名
 32. git log --author="xxx@xxx.com" 查询某人提交的记录
 33. git fetch 从远程获取最新版本到本地，不会自动merge
